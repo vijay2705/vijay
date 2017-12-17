@@ -1,2 +1,2 @@
-mystring='548'
+mystring='598'
 print(len(mystring))
