@@ -1,6 +1,7 @@
-gen=['a','e','i','o','u']
-X=raw_input()
-if X in gen:
-	print("vowel")
+a=input()
+if(a>0):
+	print("a is positive ")
+elif(a<0):
+	print(" a is negative ")
 else:
-	print("consonant")
+	print(" a is zero")
