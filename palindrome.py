@@ -1,6 +1,6 @@
-a=raw_input
-b=reversed(a)
-if list(a)==list(b):
+x=raw_input
+y=reversed(a)
+if list(x)==list(y):
  print("yes")
 else:
 print("no")
